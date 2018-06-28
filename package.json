@@ -6,6 +6,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "vue-bootstrap-collapse",
+    "vue2",
+    "bootstrap",
+    "collapse"
+  ],
   "author": "Matthew April",
-  "license": "MIT"
+  "license": "MIT",
+
+  "homepage": "https://github.com/MattApril/vue-bootstrap-collapse#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattApril/vue-bootstrap-collapse"
+  },
+  "bugs": {
+    "url": "https://github.com/MattApril/vue-bootstrap-collapse/issues"
+  },
+
 }
