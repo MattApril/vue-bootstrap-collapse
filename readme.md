@@ -1,0 +1,1 @@
+Vue2 wrapper for Bootstrap's collapse

@@ -1,0 +1,11 @@
+{
+  "name": "vue-bootstrap-collapse",
+  "version": "1.0.0",
+  "description": "Vue2 wrapper for bootstrap's collapse",
+  "main": "Collapse.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew April",
+  "license": "MIT"
+}
