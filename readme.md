@@ -2,6 +2,10 @@
 
 Vue2 wrapper for Bootstrap's collapse component
 
+## Installation
+```
+npm i vue-bootstrap-collapse
+```
 
 ## Basic Usage
 Inside your vue js component:
