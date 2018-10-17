@@ -23,8 +23,11 @@
 
         mounted: function() {
             this.collapse = $(this.$refs.collapse);
+
             if( this.visible ) {
-                this.collapse.collapse('show');
+                this.show();
+            } else {
+                this.hide();
             }
 
             var vm = this;
