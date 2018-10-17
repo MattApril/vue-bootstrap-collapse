@@ -1,6 +1,6 @@
 {
   "name": "vue-bootstrap-collapse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue2 wrapper for bootstrap's collapse",
   "main": "Collapse.vue",
   "scripts": {
@@ -14,7 +14,6 @@
   ],
   "author": "Matthew April",
   "license": "MIT",
-
   "homepage": "https://github.com/MattApril/vue-bootstrap-collapse#readme",
   "repository": {
     "type": "git",
@@ -23,5 +22,4 @@
   "bugs": {
     "url": "https://github.com/MattApril/vue-bootstrap-collapse/issues"
   }
-
 }
